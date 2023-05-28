@@ -13,7 +13,6 @@ import Venue from "./pages/venue";
 import GlobalStyle from "./styles/GlobalStyles";
 
 function App() {
-    return <div className="App"></div>;
     return (
         <AuthProvider>
             <div className="App">
